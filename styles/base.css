@@ -1,0 +1,18 @@
+/* html/element selectors */
+h1 {
+    color: pink;
+}
+
+
+/* class selectors */
+.name {
+    color: blue;
+    font-size: 23pt;
+}
+
+
+
+/* id selectors */
+#not-blue {
+    color: red;
+}
